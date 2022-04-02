@@ -40,28 +40,35 @@ The following **additional** features are implemented:
 
 Required: 1, 3
 Optional: 1, 2, 3, 7
+
 ![](https://i.imgur.com/dzL4TPF.gif)
 
 Required: 2
+
 ![](https://i.imgur.com/s9ccuay.gif)
 
 Required: 7
 Optional: 6
+
 ![](https://i.imgur.com/QyXo1yk.gif)
 
 Required: 6
+
 ![](https://i.imgur.com/mfsZyuU.gif)
 
 
 Optional: 9
+
 ![](https://i.imgur.com/u68YHcf.gif)
 
 
 Optional: 5
+
 ![](https://i.imgur.com/GYLijqE.gif)
 
 Required: 4, 5
 Optional: 4
+
 ![](https://i.imgur.com/LbDKlTZ.gif)
 
 
